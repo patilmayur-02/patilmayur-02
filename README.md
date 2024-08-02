@@ -23,3 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patilmayur-02&" alt="patilmayur-02" /></p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
