@@ -18,9 +18,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patilmayur-02&show_icons=true&locale=en&layout=compact" alt="patilmayur-02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patilmayur-02&show_icons=true&locale=en" alt="patilmayur-02" /></p>
+ 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patilmayur-02&" alt="patilmayur-02" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patilmayur-02&show_icons=true&theme=transparent)
